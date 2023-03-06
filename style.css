@@ -1,0 +1,111 @@
+.navbar-brand img{
+    width: 70%;
+}
+#navbarNav{
+    font-weight: 600;
+}
+.nav-item a{
+    margin-right: 20px;
+}
+
+.carcon{
+    background-color: gray;
+    opacity: 40%;
+    display: hidden;
+}
+
+.section{
+    background-image: url("image/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: 200px;
+}
+#car-img{
+    background-image: url("image/bg-1.png");
+    background-repeat: no-repeat;
+}
+#bg-car{
+    width: 600px;
+}
+.card img{
+    width: 60%;
+    padding: 20px;
+}
+.h3{
+    margin-top: 500px;
+}
+.container{
+    margin-bottom: 60px;
+}
+.section{
+    margin-top: -60px;
+}
+#smartid{
+    margin-bottom: 20px;
+}
+.seeall{
+    text-decoration: none;
+    color: orange ;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+#laptopid{
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+#catagory{
+    margin-top: 100px;
+}
+.line{
+    border-bottom: 6px solid rgba(240, 187, 12, 0.875);
+    width: 60px;
+    margin: auto;
+    border-radius: 10px;
+}
+.mycom{
+    display: flex;
+    align-items: end;
+}
+.mainhat{
+    align-items: center;
+}
+.img1{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    
+}
+.img2{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.img3{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+}
+.img3 img{
+    width: 60%;
+}
+.box1{
+    padding-top: 160px;
+}
+
+.box3{
+    padding-top:50px;
+}
+.box2{
+    padding-top: 50px;
+}
